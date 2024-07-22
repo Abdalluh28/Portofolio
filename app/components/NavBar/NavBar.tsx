@@ -57,7 +57,6 @@ function NavBar({ onToggle }: { onToggle: (isCollapsed: boolean) => void }) {
         })
     }, [])
 
-//git remote add origin https://github.com/Abdalluh28/portofolio.git
 
     return (
         <Navbar expand="xl" className="text-xl ml-10 mb-5 bg-backGroundColor" variant="dark">
