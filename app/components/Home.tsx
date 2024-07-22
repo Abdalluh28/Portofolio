@@ -43,10 +43,10 @@ export default function HomePage() {
                     <Image src={imaOne.src} alt="image" className='rounded-xl max-w-full h-auto' />
                 </div>
                 <div className='lg:h-2/3 lg:w-1/2 md:-translate-y-10 xl:mt-0 md:mt-20 mt-10 w-3/4 self-start lg:self-center lg:ml-0 ml-10 '>
-                    <p className='font-bold lg:text-4xl text-2xl mb-3'>I'm Abdalluh Khaled</p>
+                    <p className='font-bold lg:text-4xl text-2xl mb-3'>I&apos;m Abdalluh Khaled</p>
                     <p className='lg:text-3xl text-xl my-3 bg-customGreenTwo w-fit pl-2 pr-10'>Full Stack Developer</p>
                     <p className='text-xl mt-3 mb-10'>
-                        Certified by ITI, one of the largest online professional education platforms in the Middle East, and by Benha University, where I studied as a Full Stack developer with JavaScript. Welcome to my portfolio, I'm excited to share my journey with you!
+                        Certified by ITI, one of the largest online professional education platforms in the Middle East, and by Benha University, where I studied as a Full Stack developer with JavaScript. Welcome to my portfolio, I&apos;m excited to share my journey with you!
                     </p>
                     <div className='flex gap-3 flex-wrap'>
                         <div onClick={goToAbout} className='cursor-pointer bg-customGreen w-fit py-3 pr-7 pl-4 text-dark text-lg font-medium rounded-lg' onMouseOver={() => rotate(1)} onMouseOut={() => rotate(0)}>

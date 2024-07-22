@@ -28,7 +28,7 @@ export default function About() {
                     <div className='col-2'></div>
                     <div className='col-xl-9 flex justify-center flex-col'>
                         <p className='text-4xl my-10 font-bold underline underline-offset-[12px] decoration-customGreen'>About me</p>
-                        <p className='my-10 text-xl'>Hey! I'm based on Egypt and I'm Professional in Web Development.</p>
+                        <p className='my-10 text-xl'>Hey! I&apos;m based on Egypt and I&apos;m Professional in Web Development.</p>
                         <p className='my-5 text-xl'>Thanks to my creativity, my attention to detail and my determination, I realized that I have a great talent for developing web applications. I am fascinated by this great world of technologies and possibilities, and I am sure that I will be able to create incredible projects both professionally and personally with you.</p>
                         <div className='flex justify-center self-center'>
                             <DownArrow href='#Projects' />
