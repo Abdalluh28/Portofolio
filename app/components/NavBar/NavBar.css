@@ -1,0 +1,16 @@
+@media screen and ( max-width: 1199px ) {
+    .fixed-navbar {
+        position: fixed;
+        top: 0;
+        z-index: 9999;
+        width: 80%;
+    }
+    
+    .navbar-collapse {
+        position: absolute;
+        top: 100%;
+        background-color: #17171799; /* Ensure the dropdown has the same background */
+        z-index: 9999;
+        width: 80%;
+    }
+}
