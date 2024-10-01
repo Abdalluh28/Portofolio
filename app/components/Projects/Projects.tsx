@@ -22,6 +22,16 @@ export default function Projects() {
 
     let myProjects = [
         {
+            demo: 'https://electronic-store-g5lb.vercel.app/',
+            code: 'https://github.com/Abdalluh28/Electronic-Store',
+            src: imgFour
+        },
+        {
+            demo: 'https://store-admin-panel-rbmq.vercel.app/',
+            code: 'https://github.com/Abdalluh28/Electronic-Store-admin-panel',
+            src: imgFive
+        },
+        {
             demo: 'https://animetriks.netlify.app/',
             code: 'https://github.com/Abdalluh28/AnimeTriks',
             src: imgOne
@@ -35,16 +45,6 @@ export default function Projects() {
             demo: 'https://xo-abdo.netlify.app/',
             code: 'https://github.com/Abdalluh28/XO_game',
             src: imgThree
-        },
-        {
-            demo: 'https://electronic-store-g5lb.vercel.app/',
-            code: 'https://github.com/Abdalluh28/Electronic-Store',
-            src: imgFour
-        },
-        {
-            demo: 'https://store-admin-panel-rbmq.vercel.app/',
-            code: 'https://github.com/Abdalluh28/Electronic-Store-admin-panel',
-            src: imgFive
         }
     ]
 
