@@ -12,7 +12,8 @@ import { SingleProject } from './singleProject'
 import imgOne from '../../imgs/anime.jpeg'
 import imgTwo from '../../imgs/miniStore.png'
 import imgThree from '../../imgs/XO.png'
-
+import imgFour from '../../imgs/store.png'
+import imgFive from '../../imgs/admin.png'
 
 
 export default function Projects() {
@@ -34,6 +35,16 @@ export default function Projects() {
             demo: 'https://xo-abdo.netlify.app/',
             code: 'https://github.com/Abdalluh28/XO_game',
             src: imgThree
+        },
+        {
+            demo: 'https://electronic-store-g5lb.vercel.app/',
+            code: 'https://github.com/Abdalluh28/Electronic-Store',
+            src: imgFour
+        },
+        {
+            demo: 'https://store-admin-panel-rbmq.vercel.app/',
+            code: 'https://github.com/Abdalluh28/Electronic-Store-admin-panel',
+            src: imgFive
         }
     ]
 
