@@ -14,7 +14,7 @@ import imgTwo from '../../imgs/miniStore.png'
 import imgThree from '../../imgs/XO.png'
 import imgFour from '../../imgs/store.png'
 import imgFive from '../../imgs/admin.png'
-
+import imgSix from '../../imgs/todo.jpeg'
 
 export default function Projects() {
 
@@ -30,6 +30,11 @@ export default function Projects() {
             demo: 'https://store-admin-panel-rbmq.vercel.app/',
             code: 'https://github.com/Abdalluh28/Electronic-Store-admin-panel',
             src: imgFive
+        },
+        {
+            demo: 'https://to-do-list-tau-lake-58.vercel.app/',
+            code: 'https://github.com/Abdalluh28/to_do_list',
+            src: imgSix
         },
         {
             demo: 'https://animetriks.netlify.app/',
